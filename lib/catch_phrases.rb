@@ -18,5 +18,3 @@ def all_phrases
   toadstool(status)
   link(saying)
 end 
-
-all_phrases
