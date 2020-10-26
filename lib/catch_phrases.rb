@@ -13,6 +13,8 @@ def link
   puts saying 
 end 
 
+$phrase = "It's-a me, Mario!"
+
 def all_phrases
   mario(phrase)
   toadstool(status)
