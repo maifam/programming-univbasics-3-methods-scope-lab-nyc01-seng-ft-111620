@@ -18,8 +18,8 @@ $status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 $saying = "It's Dangerous To Go Alone! Take This."
 
 def all_phrases
-  mario(phrase)
-  toadstool(status)
+  mario
+  toadstool
   link(saying)
 end 
 
