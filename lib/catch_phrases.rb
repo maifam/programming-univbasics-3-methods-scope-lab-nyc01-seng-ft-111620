@@ -13,3 +13,8 @@ def link
   puts saying 
 end 
 
+def all_phrases
+  mario(phrase)
+  toadstool(status)
+  link(saying)
+end 
