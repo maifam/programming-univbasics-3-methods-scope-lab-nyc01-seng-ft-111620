@@ -13,13 +13,10 @@ def link
   puts saying 
 end 
 
-$phrase = "It's-a me, Mario!"
-$status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-$saying = "It's Dangerous To Go Alone! Take This."
 
 def all_phrases
   mario
   toadstool
-  link(saying)
+  link
 end 
 
