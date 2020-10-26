@@ -1,5 +1,5 @@
 def mario
-  phrase = "It'sa me, Mario!"
+  phrase = "It's-a me, Mario!"
   puts phrase
 end
 
@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  saying = "It's Dangerous To Go Alone! Take This"
+  saying = "It's Dangerous To Go Alone! Take This."
   puts saying 
 end 
 
